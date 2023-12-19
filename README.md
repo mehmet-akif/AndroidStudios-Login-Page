@@ -10,9 +10,9 @@ This Android application showcases a simple login page where users can enter the
 - Navigation to a new page upon successful login
 
 ## Screenshots/GIFs
-![Login Page Demo](path_to_your_login_page_image.png)
-![Login Page Demo](path_to_your_login_page_image.png)
-![Login Page Demo](path_to_your_login_page_image.png)
+![Login Page Demo](login1.png)
+![Login Page Demo](login2.png)
+![Login Page Demo](login3.png)
 
 ## Technologies Used
 - Android Studio
